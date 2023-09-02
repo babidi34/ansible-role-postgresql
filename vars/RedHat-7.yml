@@ -9,3 +9,4 @@ __postgresql_packages:
   - postgresql-server
   - postgresql-contrib
   - postgresql-libs
+ansible_python_interpreter: '/usr/bin/python'
